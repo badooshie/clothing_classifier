@@ -11,7 +11,12 @@ Starting point:
  - Later will try to implement recomendations such as: "This is a red short sleeve, this can be used with [inserts style and color] style, and goes well with [inserts style and color] pants
 
 
-TODO List:
+Research List:
  - research clothing styles, get simple list of tops and bottoms
- - research classifier to use
+ - research classifier to use. looking at sklearn SVC, sklearn CNN, pytorch, or tensorflow.
  - research how to incorperate python into web-app
+
+Coding Tasks:
+ - figure out structure of coding project
+ - break down project into small tasks
+ - documentation
