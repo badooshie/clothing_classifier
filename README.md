@@ -23,11 +23,13 @@ Coding Tasks:
 
 Checklist:
 1. Define the problem. Specify types of clothing and to what accuracy we are aiming to achieve.
-2. Gather and preprocess data. Either search for an existing dataset to modify or create out own. Normalize the images (resize, augment, format)
-3. Choose ML framework (Research sckit-learn SVC or CNN, pytorch, and tensorflow.
-4. Split dataset for training, validation and testing. Train the mode, validate to tune hyperparameters, and testing to validate final performance.
-5. Implement model on unseen testing data. Evaluate model on metrics such as accuracy prevision and recall.  Need to research which metrics to use here. (f1 score?)
-6. Integrate into web-app.  Needs research on what to use her.  Possibly python's django web framework
+2. Gather and preprocess data. Either search for an existing dataset to modify or create out own. Normalize the images (resize, augment, format).
+   - get more images
+   - start a small database file (csv file) and label each image. the feaures will be color, pattern and type.
+4. Choose ML framework (Research sckit-learn SVC or CNN, pytorch, and tensorflow.
+5. Split dataset for training, validation and testing. Train the mode, validate to tune hyperparameters, and testing to validate final performance.
+6. Implement model on unseen testing data. Evaluate model on metrics such as accuracy prevision and recall.  Need to research which metrics to use here. (f1 score?)
+7. Integrate into web-app.  Needs research on what to use her.  Possibly python's django web framework
 
 
 
